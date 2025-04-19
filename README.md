@@ -43,7 +43,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 <img src="IMG_8360.jpeg" alt="payslip" width="700" />
 
 **SUMMARY~** <This transaction will require significant
-ETHEREUM network fee to for immediate reflection to **ETH** address destination!>
+ETHEREUM ***GWEI*** fee to for immediate reflection to **ETH** address destination!>
 
 <form action="https://etherscan.io/" method="get">
   <button type="submit">Submit and Redirect</button>
