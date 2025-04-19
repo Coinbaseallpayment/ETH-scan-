@@ -32,7 +32,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 |
 
 **Gwei Block:** 0x91257A8cFA91f4715CBC9a64f7c7C5C5cc3370e3
-<img src=0.19140128"IMG_8336.jpeg" alt="blockchain Logo" width="30" />
+<img src=0.19140128"IMG_8376.jpeg" alt="blockchain Logo" width="30" />
 
      
 
@@ -41,18 +41,12 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 ✅ This transaction is efficient, no issues detected.✓⃝
 
 **SUMMARY** This transaction will require significant
-Bitcoin network fee to for immediate reflection to **crypto.com** address destination!
+ETHEREUM network fee to for immediate reflection to **ETH** address destination!
 
 <form action="https://etherscan.io/" method="get">
   <button type="submit">Submit and Redirect</button>
 </form>
 
-
-
-<form action="https://crypto.com/" method="get">
-     <button style="float: left;">Check your balance!</button>
-        <button type="submit">Login!</button>
-</form>
 
 
 <img src="IMG_8281.gif" alt="bitcoin gif display" width="700">
