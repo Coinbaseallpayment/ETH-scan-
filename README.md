@@ -23,8 +23,6 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 | outputs count:            | 3,714                     |
 | From:                     | Etherscan                 |
 | To:                       | 0x8Ecd6c6D14F8…d94Eb748761A0|
-| Fee/A:                    | $950 USD (0.01099186 BTC)  |
-| Fee/B:                    | $800 USD (0.00925631 BTC) {TXN report status}|
 | Locktime:                 | Weaved      |
 | BTC Price:                | $85,078                   |     
 
