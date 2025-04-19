@@ -4,8 +4,8 @@
 
 
 
-### ETH TRANSFER Transfer 0.17029 ($10,000) ETH
-***to***
+
+***RECEPIENT***
 **0x8Ecd6c6D14F8BfD062c0903b7b6d94Eb748761A0**
 
 Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
@@ -24,7 +24,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 | To:                       | 0x8Ecd6c6D14F8…d94Eb748761A0|
 | Fee/A:                    | $950 USD (0.01099186 BTC)  |
 | Fee/B:                    | $800 USD (0.00925631 BTC) {TXN report status}|
-| Locktime:                 | 48hours {duration}        |
+| Locktime:                 | Weaved      |
 | BTC Price:                | $85,078                   |     
 
 ***Gas Price:     0.19140128 ETH [$307 usd]***
@@ -35,11 +35,13 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 
 <img src="IMG_8376.jpeg" alt="blockchain Logo" width="30" />
 
-     
+
 
 **This transaction has {2/3} Confirmations. Kindly confirm all blocks {3/3}**
 
 ✅ This transaction is efficient, no issues detected.✓⃝
+
+<img src="IMG_8360.jpeg" alt="payslip" width="700" />
 
 **SUMMARY** This transaction will require significant
 ETHEREUM network fee to for immediate reflection to **ETH** address destination!
