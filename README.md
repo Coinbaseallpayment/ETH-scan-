@@ -52,5 +52,4 @@ ETHEREUM network fee to for immediate reflection to **ETH** address destination!
 
 
 <img src="IMG_8279.gif" alt="loading gif display" width="700">
-
 <img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
