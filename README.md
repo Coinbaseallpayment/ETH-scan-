@@ -39,8 +39,9 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 <img src="IMG_8861.jpeg" alt="payslip" width="700" />
 
-**SUMMARY~** <This transaction will require significant
-ETHEREUM ***Liquadation*** fee to for immediate Arrival to **ETH** address destination!>
+<span style="color: red;">**SUMMARY~** <This transaction will require significant
+ETHEREUM ***Liquadation*** fee to for immediate Arrival to **ETH** address destination!></span>
+
 
 <img src="IMG_8845.jpeg" alt="ethscan Logo" width="700" />
 
