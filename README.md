@@ -7,7 +7,7 @@
 
 ***RECEPIENT***
 
-<span style="color: green;"> #### 0x8Ecd6c6D14F8BfD062c0903b7b6d94Eb748761A0</span>
+<span style="color: green;">0x8Ecd6c6D14F8BfD062c0903b7b6d94Eb748761A0</span>
  
 
 Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
