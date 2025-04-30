@@ -13,16 +13,16 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
      
 | Address:                  |0x8Ecd6c6D14F8…d94Eb748761A0|
-    |---------------------------|---------------------------|
-    | weight/size:              | 892,311                   |
-    | date:                     | 30 April/25               |
-    | Version:                  | 585244672                 |
-    | IP Relayed By:            | 162.220.166.93:8333       |
-    | Witness tx count:         | 1,175                     |
-    | Inputs count:             | 3,359                     |
-    | outputs count:            | 3,714                     |
-    | From:                     | Etherscan                 |
-    | To:                       | 0x8Ecd6c6D14F8…d94Eb748761A0|
+|---------------------------|---------------------------|
+| weight/size:              | 892,311                   |
+| date:                     | 30 April/25               |
+| Version:                  | 585244672                 |
+| IP Relayed By:            | 162.220.166.93:8333       |
+| Witness tx count:         | 1,175                     |
+| Inputs count:             | 3,359                     |
+| outputs count:            | 3,714                     |
+| From:                     | Etherscan                 |
+| To:                       | 0x8Ecd6c6D14F8…d94Eb748761A0|
 
 ***ETH Liqudated:     0.28930673 ETH [$520 usd]***
 
