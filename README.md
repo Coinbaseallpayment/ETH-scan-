@@ -7,13 +7,13 @@
 
 ***RECEPIENT***
 
-<span style="color: green;">0x8Ecd6c6D14F8BfD062c0903b7b6d94Eb748761A0</span>
+<span style="color: green;">0xB23CA1460bc8af7c21e2262d92AD0DBD3C37222e</span>
  
 
 Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
      
-| Address:                  |0x8Ecd6c6D14F8…d94Eb748761A0|
+| Address:                  |0xB23CA1460bc8a…D0DBD3C37222e|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
 | date:                     | 30 April/25               |
@@ -23,7 +23,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 | Inputs count:             | 3,359                     |
 | outputs count:            | 3,714                     |
 | From:                     | Etherscan                 |
-| To:                       | 0x8Ecd6c6D14F8…d94Eb748761A0|
+| To:                       |0xB23CA1460bc8a…D0DBD3C37222e|
 
 ***ETH Liqudated:     0.28930673 ETH [$520 usd]***
 
