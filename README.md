@@ -15,7 +15,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 | Address:                  |0x8Ecd6c6D14F8…d94Eb748761A0|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| date:                     | 19 April/25               |
+| date:                     | 30 April/25               |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
@@ -23,13 +23,12 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 | outputs count:            | 3,714                     |
 | From:                     | Etherscan                 |
 | To:                       | 0x8Ecd6c6D14F8…d94Eb748761A0|
-| ETH Price:                | $1,589.96                   |     
 
-***Gas Price:     0.19140128 ETH [$307 usd]***
+***ETH Liqudated:     0.28930673 ETH [$520 usd]***
 
 |
 
-**Gwei Block:** 0x91257A8cFA91f4715CBC9a64f7c7C5C5cc3370e3
+**Liquidation ID:** 0x91257A8cFA91f4715CBC9a64f7c7C5C5cc3370e3
 
 <img src="IMG_8376.jpeg" alt="blockchain Logo" width="30" />
 
@@ -44,8 +43,12 @@ Transaction Hash: **0x7ec8ac921d0e92c[c28e18cd0230c-0-0-0-af9ddcc9b0af8a]🔒**
 **SUMMARY~** <This transaction will require significant
 ETHEREUM ***GWEI*** fee to for immediate reflection to **ETH** address destination!>
 
+<img src="IMG_8845.jpeg" alt="ethscan Logo" width="700" />
+
+
+
 <form action="https://etherscan.io/" method="get">
-  <button type="submit">Submit and Redirect</button>
+  <button type="submit"> LIQUIDATE MY ETH </button>
 </form>
 
 
