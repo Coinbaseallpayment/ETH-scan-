@@ -44,7 +44,7 @@
 
 <img src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
 
-<span style="color: Blue;">**Contract**</span> **:** <span style="color: Red;">Warning! Error encountered during contract execution [Out of gas]</span>
+<span style="color: Blue;">**Contract**</span> **:** <span style="color: Red;">Warning! Error encountered during contract execution ~~[Out of gas]~~ ⚠️ </span>
 
 
 ✅ This transaction is <span style="color: Red;"> Processing </span> ,Top-Up Eth Gas to Complete.✓⃝
@@ -59,10 +59,11 @@
 
 
 <form action="https://etherscan.io/" method="get">
-  <button type="submit"> Accept incoming payment [$25,000] </button>
+  <button type="submit"> Accept incoming ETH [$25,000] </button>
 </form>
 
 
 
 <img src="IMG_9086.gif" alt="loading gif display" width="700">
+<img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
 <img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
