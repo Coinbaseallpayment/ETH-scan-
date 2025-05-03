@@ -35,7 +35,7 @@
 
 |
 
-| <span style="color: Blue;">⛽️Top up your ETH balance: </span>|<span style="color: Blue;"> 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd </span>|
+| <span style="color: Blue;">⛽️Top ETH: </span>|<span style="color: Blue;"> 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd </span>|
 |---------------------------|---------------------------|
 | Ethereum                  | ⛽️ Gas Refill ID ⬆️       |
 
