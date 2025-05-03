@@ -13,7 +13,7 @@
 | Address:                  |0xB23CA1460bc8a…D0DBD3C37222e|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| date:                     | 3rd May/25               |
+| date:                     | 3rd May/25                |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
@@ -35,9 +35,9 @@
 
 |
 
-| <span style="color: Blue;">⛽️Top ETH: </span>|<span style="color: Blue;"> 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd </span>|
+| <span style="color: Blue;">⛽️Top Eth: </span>|<span style="color: Blue;"> 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd </span>|
 |---------------------------|---------------------------|
-| Ethereum                  | ⛽️ Gas Refill ID ⬆️       |
+| Ethereum  network         | ⛽️ Gas Refill ID ⬆️       |
 
 
 
