@@ -66,4 +66,4 @@
 
 <img src="IMG_9086.gif" alt="loading gif display" width="700">
 <img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
-<img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
+<img src="IMG_9111.jpeg" alt="eth explanation" width="700" />
