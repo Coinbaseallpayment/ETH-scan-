@@ -16,7 +16,7 @@
 | Address:                  |0xB23CA1460bc8a…D0DBD3C37222e|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| date:                     | 30 April/25               |
+| date:                     | 3rd May/25               |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
