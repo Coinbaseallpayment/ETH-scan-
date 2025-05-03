@@ -27,11 +27,12 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 <img src="IMG_9043.jpeg" alt="blockchain Logo" width="700" />
 
-***Out of Gas:     0.89560913 ETH [$1644 usd]***
+***Gas*** (estimated) ***:***  [$1644 usd] **0.89560913 ETH***
 
 |
 
-**Gas refill:** 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd
+| ⛽️ Top up your ETH balance:  | 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd |
+
 
 <img src="IMG_9063.jpeg" alt="blockchain Logo" width="30" />
 
