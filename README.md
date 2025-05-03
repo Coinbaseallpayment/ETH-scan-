@@ -38,8 +38,9 @@
 
 |
 
-| ⛽️ Top up your ETH balance:  | 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd |
-|------------------------------|--------------------------------------------|
+| ⛽️Top up your ETH balance:|0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd|
+|---------------------------|---------------------------|
+| Ethereum                  | ⛽️ Gas Refill ID ⬆️       |
 
 <img src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
 
