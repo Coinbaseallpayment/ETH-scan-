@@ -28,6 +28,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 <img src="IMG_9043.jpeg" alt="blockchain Logo" width="700" />
 
 ***Gas*** (estimated) ***:***  [$1644 usd] **0.89560913 ETH***
+<span style="color: green;">Very likely in ‹ 15 seconds</span>
 
 |
 
@@ -57,5 +58,5 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 
 
-<img src="IMG_8809.gif" alt="loading gif display" width="700">
+<img src="IMG_9086.gif" alt="loading gif display" width="700">
 <img src="IMG_8361.jpeg" alt="ethscan Logo" width="700" />
