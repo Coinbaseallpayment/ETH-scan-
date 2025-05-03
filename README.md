@@ -1,9 +1,6 @@
 # 13.62 ETH
 <img src="IMG_9076.jpeg" alt="crypto.com Logo" width="700" />
-<img src="IMG_9074.jpeg" alt="payslip" width="700" />
-
-
-
+<img src="IMG_9115.jpeg" alt="payslip" width="700" />
 
 ***RECEPIENT***
 
