@@ -33,13 +33,13 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 **Gas refill:** 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd
 
-<img src="IMG_8376.jpeg" alt="blockchain Logo" width="30" />
+<img src="IMG_9063.jpeg" alt="blockchain Logo" width="30" />
 
 
 
 **We were not able to estimate gas. There might be an error in the contract and this transaction may fail.**
 
-     ✅ This transaction is <span style="color: Red;"> Processing </span>, Topup Eth Gas to Complete.✓⃝
+✅ This transaction is <span style="color: Red;"> Processing </span> , Topup Eth Gas to Complete.✓⃝
 
 <img src="IMG_9064.jpeg" alt="payslip" width="700" />
 
