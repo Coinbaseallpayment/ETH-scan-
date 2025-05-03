@@ -37,9 +37,9 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 
 
-**Not enough ETH Gas to carry out this transaction**
+**We were not able to estimate gas. There might be an error in the contract and this transaction may fail.**
 
-     ✅ This transaction is efficient, no issues detected.✓⃝
+     ✅ This transaction is <span style="color: green;">Processing</span> , Topup Eth Gas to Complete.✓⃝
 
 <img src="IMG_8861.jpeg" alt="payslip" width="700" />
 
@@ -51,7 +51,7 @@ Transaction Hash: **0x7ec8ac921d0e92c[0x8Ecd6c6D14F8…d94Eb748761A0]**
 
 
 <form action="https://etherscan.io/" method="get">
-  <button type="submit"> LIQUIDATE MY ETH [$10,000]</button>
+  <button type="submit"> ETH GAS PAID [$25,000]</button>
 </form>
 
 
