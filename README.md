@@ -29,7 +29,9 @@
 </form>  And receive $25,000 ETH Balance on your Eth address
 
 
-***Gas*** (estimated) ***:***  [$1644 usd] **0.89560913 ETH***
+***Gas*** (estimated) ***:***  [$1,194 usd] **0.65084803 ETH*** <span style="color: Red;"> CURRENTLY OUTSTANDING </span>
+
+<span style="color: Blue;"> ~~$449 PAID~~ </span>
 
 <span style="color: green;">Very likely in ‹<15 seconds</span>
 
